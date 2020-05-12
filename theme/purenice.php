@@ -1268,5 +1268,5 @@
     }
 <?php } ?>
 </script>
-<script src="//unpkg.zhimg.com/ionicons@4.4.4/dist/ionicons.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe@1.1.2/app-v2.js"></script>
 </html>
